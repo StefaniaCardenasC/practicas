@@ -3,14 +3,40 @@
     padding: 0;
     font-family: 'Roboto Condensed', sans-serif;
 }
+.flex {
+    display: flex;
+}
 
 li{list-style-type: none;}
 
 .container {
     padding: 147px;
-    background-image:url(https://www.prensalibre.com/wp-content/uploads/2020/03/la_casa_de_papel_4.jpg)
+    background-image: url(https://www.prensalibre.com/wp-content/uploads/2020/03/la_casa_de_papel_4.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
 }
 
 .primary-color{
     color: white;
+}
+
+.menu {
+    position: fixed;
+    z-index: 9;
+    left: 0px;
+    top: 0px;
+    height: 100vh;
+    background-color: #1515155e;
+    padding: 0px 20px;
+    overflow: hidden;
+    align-items: center;
+}
+.menu a {
+    color: #fff;
+}
+
+.trending {
+    width: 90%;
+    margin: 40px auto;
 }
