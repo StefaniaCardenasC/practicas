@@ -39,6 +39,7 @@ li{list-style-type: none;}
 .trending {
     width: 90%;
     margin: 40px auto;
+    margin-top: 36px;
 }
 
 .button{
