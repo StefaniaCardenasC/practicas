@@ -7,5 +7,10 @@
 li{list-style-type: none;}
 
 .container {
-    background-image:url(C:\Users\x640097\OneDrive - Santander Office 365\Documentos\practicas\netflix_practica2\picture.jpg)
+    padding: 147px;
+    background-image:url(https://www.prensalibre.com/wp-content/uploads/2020/03/la_casa_de_papel_4.jpg)
+}
+
+.primary-color{
+    color: white;
 }
