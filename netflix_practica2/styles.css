@@ -9,6 +9,10 @@ body {
   background-position: bottom;
   background-repeat: no-repeat;
   background-color: #000000e8;
+  padding-bottom: 30px;
+}
+a, button {
+  cursor: pointer;
 }
 
 .flex {
@@ -29,6 +33,10 @@ li {
   padding: 147px 0px;
   width: 88%;
   margin: 0px auto;
+}
+
+.banner h2 {
+  width: 430px;
 }
 
 .titles {
