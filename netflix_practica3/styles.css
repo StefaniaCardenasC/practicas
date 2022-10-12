@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.margin {
+    margin-top: -80px;
+}
+
+.profile_spacing {
+    margin-right: 10px;
+}
