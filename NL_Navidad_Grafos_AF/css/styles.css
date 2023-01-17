@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+
+.banner {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    margin: 275px;
+    margin-top: 0px;
+}
+
+.fullCenter {
+    justify-content: center;
+    align-items: center;
+}
+
+.description {
+    color: #008249;
+    text-align: justify;
+    font-size: 15px;
+    padding: 20px;
+    background: #f6f6f6;
+    margin-top: 40px;
+
+}
+
+.description2 {
+    color: #ffffff;
+    text-align: left;
+    font-size: 25px;
+    padding: 40px;
+    background: #008249;
+    margin-top: 40px;
+}
+
+.section {
+    display: block;
+}
